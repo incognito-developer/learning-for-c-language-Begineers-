@@ -1,0 +1,9 @@
+#include <stdio.h> //Preprocessor
+
+int main(){
+  //wrote about your code. '//' means comment, compiler will not compile comment line
+  
+  printf("hello world!\n");
+  
+  return 0; //return value
+}
